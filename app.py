@@ -11,7 +11,7 @@ st.title(":rainbow[AI Data Science Tutor] ")
 #read the key
 
 
-f=open("C:\OpenAI\Gemini_app\keys\gemini_api_key.txt.txt")
+f=open("filepath to key.txt")
 key=f.read()
 
 
